@@ -1,43 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
   <url>
     <loc>https://coroasdeflorespetalas.com.br/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
   </url>
+
   <url>
-    <loc>https://coroasdeflorespetalas.com.br/coroas-de-flores/</loc>
+    <loc>https://coroasdeflorespetalas.com.br/contato/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
+
   <url>
-    <loc>https://coroasdeflorespetalas.com.br/arranjos-de-flores-naturais/</loc>
+    <loc>https://coroasdeflorespetalas.com.br/produtos/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
-  <url>
-    <loc>https://coroasdeflorespetalas.com.br/fale-conosco/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://coroasdeflorespetalas.com.br/p/coroa-de-flores-luxo</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://coroasdeflorespetalas.com.br/p/coroa-de-flores-classica</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://coroasdeflorespetalas.com.br/p/arranjo-rosas-brancas</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://coroasdeflorespetalas.com.br/p/arranjo-colorido</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.8</priority>
-  </url>
+
 </urlset>
